@@ -8,7 +8,8 @@ COUNTRIES="CZ SK PL HU AT SI"
 for X in $COUNTRIES
 do
 	N=$(
-		grep ';'$X';' data/cordis-h2020organizations.csv | \
+		iconv -f windows-1252 -t UTF-8 <data/cordis-h2020organizations.csv | \
+		grep ';'$X';' | \
 		cut -f2 -d';' | \
 		sort | \
 		uniq | \

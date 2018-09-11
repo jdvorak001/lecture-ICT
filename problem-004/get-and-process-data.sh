@@ -4,14 +4,14 @@
 wget --no-verbose --timestamping --directory-prefix=data/ http://cordis.europa.eu/data/cordis-h2020organizations.csv
 
 # ???
-cat data/cordis-h2020organizations.csv | \
+iconv -f windows-1252 -t UTF-8 <data/cordis-h2020organizations.csv | \
 sed 1d | \
 grep ';coordinator;' | \
 cut -f2,6,11 -d';' | \
 sort > data/c.txt
 
 # ???
-cat data/cordis-h2020organizations.csv | \
+iconv -f windows-1252 -t UTF-8 <data/cordis-h2020organizations.csv | \
 sed 1d | \
 grep -v ';coordinator;' | \
 cut -f2,6,11 -d';' | \

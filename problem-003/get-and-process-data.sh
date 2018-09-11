@@ -4,7 +4,7 @@
 wget --no-verbose --timestamping --directory-prefix=data/ http://cordis.europa.eu/data/cordis-h2020organizations.csv
 
 # stage 1
-cat data/cordis-h2020organizations.csv | \
+iconv -f windows-1252 -t UTF-8 <data/cordis-h2020organizations.csv | \
 sed 1d | \
 cut -f2,6,11 -d';' | \
 sort > data/px1.txt
