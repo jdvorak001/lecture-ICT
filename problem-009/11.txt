@@ -1,0 +1,1295 @@
+{
+  "status" : "ok",
+  "message-type" : "work",
+  "message-version" : "1.0.0",
+  "message" : {
+    "indexed" : {
+      "date-parts" : [ [ 2019, 4, 17 ] ],
+      "date-time" : "2019-04-17T15:43:09Z",
+      "timestamp" : 1555515789408
+    },
+    "update-to" : [ {
+      "updated" : {
+        "date-parts" : [ [ 2016, 12, 1 ] ],
+        "date-time" : "2016-12-01T00:00:00Z",
+        "timestamp" : 1480550400000
+      },
+      "DOI" : "10.1002/14651858.cd008500.pub3",
+      "type" : "new_version",
+      "label" : "New version"
+    } ],
+    "reference-count" : 141,
+    "publisher" : "Wiley",
+    "content-domain" : {
+      "domain" : [ "wiley.com", "cochranelibrary.com" ],
+      "crossmark-restriction" : true
+    },
+    "short-container-title" : [ ],
+    "DOI" : "10.1002/14651858.cd008500.pub4",
+    "type" : "journal-article",
+    "created" : {
+      "date-parts" : [ [ 2016, 12, 1 ] ],
+      "date-time" : "2016-12-01T14:50:51Z",
+      "timestamp" : 1480603851000
+    },
+    "update-policy" : "http://dx.doi.org/10.1002/crossmark_policy",
+    "source" : "Crossref",
+    "is-referenced-by-count" : 7,
+    "title" : [ "Primary prophylaxis for venous thromboembolism in ambulatory cancer patients receiving chemotherapy" ],
+    "prefix" : "10.1002",
+    "author" : [ {
+      "given" : "Marcello",
+      "family" : "Di Nisio",
+      "sequence" : "first",
+      "affiliation" : [ {
+        "name" : "University \"G. D'Annunzio\" of Chieti-Pescara; Department of Medical, Oral and Biotechnological Sciences; via dei Vestini 31 Chieti Italy 66013"
+      }, {
+        "name" : "Academic Medical Center; Department of Vascular Medicine; Amsterdam Netherlands"
+      } ]
+    }, {
+      "given" : "Ettore",
+      "family" : "Porreca",
+      "sequence" : "additional",
+      "affiliation" : [ {
+        "name" : "University \"G. D'Annunzio\" of Chieti-Pescara; Department of Medical, Oral and Biotechnological Sciences; via dei Vestini 31 Chieti Italy 66013"
+      } ]
+    }, {
+      "given" : "Matteo",
+      "family" : "Candeloro",
+      "sequence" : "additional",
+      "affiliation" : [ {
+        "name" : "\"University G. D'Annunzio\" Foundation; Internal Medicine Unit; Chieti Italy"
+      } ]
+    }, {
+      "given" : "Michele",
+      "family" : "De Tursi",
+      "sequence" : "additional",
+      "affiliation" : [ {
+        "name" : "\"University G. D'Annunzio\" Foundation; Internal Medicine Unit; Chieti Italy"
+      } ]
+    }, {
+      "given" : "Ilaria",
+      "family" : "Russi",
+      "sequence" : "additional",
+      "affiliation" : [ {
+        "name" : "University \"G. D'Annunzio\" of Chieti-Pescara; Department of Medical, Oral and Biotechnological Sciences; via dei Vestini 31 Chieti Italy 66013"
+      } ]
+    }, {
+      "given" : "Anne WS",
+      "family" : "Rutjes",
+      "sequence" : "additional",
+      "affiliation" : [ {
+        "name" : "Fondazione \"Università G. D'Annunzio\"; Centre for Systematic Reviews; Via dei Vestini 31 Chieti Chieti Italy 66100"
+      }, {
+        "name" : "University of Bern; CTU Bern; Bern Bern Switzerland 3012"
+      } ]
+    } ],
+    "member" : "311",
+    "published-online" : {
+      "date-parts" : [ [ 2016, 12, 1 ] ]
+    },
+    "reference" : [ {
+      "issue" : "10",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0001|cit1",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "943",
+      "DOI" : "10.1016/S1470-2045(09)70232-3",
+      "article-title" : "Nadroparin for the prevention of thromboembolic events in ambulatory patients with metastatic or locally advanced solid cancer receiving chemotherapy: a randomised, placebo-controlled, double-blind study",
+      "volume" : "10",
+      "author" : "Agnelli",
+      "year" : "2009",
+      "journal-title" : "Lancet Oncology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0002|cit2",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "155",
+      "DOI" : "10.1182/blood-2014-03-561761",
+      "article-title" : "The effect of low-molecular-weight heparin in cancer patients: the mirror image of survival?",
+      "volume" : "124",
+      "author" : "Barni",
+      "year" : "2014",
+      "journal-title" : "Blood"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0003|cit3",
+      "first-page" : "S206",
+      "article-title" : "Thromboembolic risk related to type of chemotherapy and efficacy of nadroparin in cancer outpatients with metastatic or locally advanced cancer",
+      "volume" : "19 (Suppl 2)",
+      "author" : "Barni",
+      "year" : "2011",
+      "journal-title" : "Supportive Care in Cancer"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0004|cit4",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "179",
+      "DOI" : "10.1186/1479-5876-9-179",
+      "article-title" : "Chemotherapy-associated thromboembolic risk in cancer outpatients and effect of nadroparin thromboprophylaxis: results of a retrospective analysis of the PROTECHT study",
+      "volume" : "9",
+      "author" : "Barni",
+      "year" : "2011",
+      "journal-title" : "Journal of Translational Medicine"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0005|cit5",
+      "first-page" : "abstract 9640",
+      "article-title" : "Survival benefit with low-molecular-weight heparin in patients with advanced solid tumors: a post hoc analysis of PROTECHT Trial",
+      "volume" : "32 (Suppl)",
+      "author" : "Barni",
+      "year" : "2014",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0006|cit6",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "S222",
+      "DOI" : "10.1016/S0959-8049(11)71074-7",
+      "article-title" : "Ultra-low-molecular-weight heparin (ULMWH) semuloparin for prevention of venous thromboembolism (VTE) in cancer patients receiving chemotherapy: consistent beneficial effect across cancer stage and location subgroups",
+      "volume" : "47",
+      "author" : "Agnelli",
+      "year" : "2011",
+      "journal-title" : "European Journal of Cancer"
+    }, {
+      "issue" : "7",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0007|cit7",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "601",
+      "DOI" : "10.1056/NEJMoa1108898",
+      "article-title" : "Semuloparin for thromboprophylaxis in patients receiving chemotherapy for cancer",
+      "volume" : "366",
+      "author" : "Agnelli",
+      "year" : "2012",
+      "journal-title" : "New England Journal of Medicine"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0008|cit8",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "JC6",
+      "DOI" : "10.7326/0003-4819-156-12-201206190-02005",
+      "article-title" : "Semuloparin reduced venous thromboembolism in patients receiving chemotherapy for cancer",
+      "volume" : "156",
+      "author" : "Hull",
+      "year" : "2012",
+      "journal-title" : "Annals of Internal Medicine"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0009|cit9",
+      "unstructured" : "NCT00694382 A multinational, randomized, double blind, placebo-controlled study to evaluate the efficacy and safety of AVE5026 in the prevention of venous thromboembolism (VTE) in cancer patients at high risk for VTE and who are undergoing chemotherapy clinicaltrials.gov/show/NCT00694382"
+    }, {
+      "issue" : "8",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0010|cit10",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "1266",
+      "DOI" : "10.1111/j.1538-7836.2004.00871.x",
+      "article-title" : "A randomized clinical trial of combination chemotherapy with and without low-molecular-weight heparin in small cell lung cancer",
+      "volume" : "2",
+      "author" : "Altinbas",
+      "year" : "2004",
+      "journal-title" : "Journal of Thrombosis and Haemostasis"
+    }, {
+      "issue" : "8",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0011|cit11",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "993",
+      "DOI" : "10.1200/JCO.1989.7.8.993",
+      "article-title" : "A randomized trial of anticoagulation with warfarin and of alternating chemotherapy in extensive small-cell lung cancer by the Cancer and Leukemia Group B",
+      "volume" : "7",
+      "author" : "Chahinian",
+      "year" : "1989",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0012|cit12",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "894",
+      "DOI" : "10.1016/j.thromres.2012.09.010",
+      "article-title" : "Dalteparin low molecular weight heparin (LMWH) in ovarian cancer: a phase II randomized study",
+      "volume" : "130",
+      "author" : "Elit",
+      "year" : "2012",
+      "journal-title" : "Thrombosis Research"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0013|cit13",
+      "unstructured" : "NCT00239980 A phase II randomized study of Fragmin in ovarian cancer: utility on survival (FOCUS) clinicaltrials.gov/show/NCT00239980"
+    }, {
+      "issue" : "11 (Pt1)",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0014|cit14",
+      "first-page" : "210a",
+      "article-title" : "A randomized trial of the low molecular weight of heparin certoparin against placebo in the long-term prevention of venous thromboembolism in patients with metastatic breast cancer",
+      "volume" : "102",
+      "author" : "Freund",
+      "year" : "2003",
+      "journal-title" : "Blood"
+    }, {
+      "issue" : "2",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0015|cit15",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "159",
+      "DOI" : "10.1177/1076029611433769",
+      "article-title" : "Low-molecular-weight heparin versus placebo for the prevention of venous thromboembolism in metastatic breast cancer or stage III/IV lung cancer",
+      "volume" : "18",
+      "author" : "Haas",
+      "year" : "2012",
+      "journal-title" : "Clinical and Applied Thrombosis Hemostasis"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0016|cit16",
+      "unstructured" : "Haas SK Kakkar AK Kemkes-Matthes B Freund M Gatzemeier U Heilmann L Prevention of venous thromboembolism with low-molecular-weight heparin in patients with metastatic breast or lung cancer - Results of the TOPIC studies Journal of Thrombosis and Haemostasis 2005 Abstract OR059"
+    }, {
+      "issue" : "7",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0017|cit17",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "1649",
+      "DOI" : "10.1111/j.1538-7836.2010.03901.x",
+      "article-title" : "Prevention of venous thromboembolism in patients with advanced lung cancer receiving chemotherapy: a combined analysis of the PROTECHT and TOPIC-2 studies",
+      "volume" : "8",
+      "author" : "Verso",
+      "year" : "2010",
+      "journal-title" : "Journal of Thrombosis and Haemostasis"
+    }, {
+      "issue" : "10",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0018|cit18",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "1944",
+      "DOI" : "10.1200/JCO.2004.10.002",
+      "article-title" : "Low molecular weight heparin, therapy with dalteparin, and survival in advanced cancer: the fragmin advanced malignancy outcome study (FAMOUS)",
+      "volume" : "22",
+      "author" : "Kakkar",
+      "year" : "2004",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0019|cit19",
+      "first-page" : "427",
+      "article-title" : "Dalteparin thromboprophylaxis in cancer patients at high risk for venous thromboembolism: a randomized trial",
+      "volume" : "126",
+      "author" : "Khorana",
+      "year" : "2015",
+      "journal-title" : "Blood"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0020|cit20",
+      "unstructured" : "NCT00876915 A prospective randomized multicenter study of dalteparin prophylaxis in high-risk ambulatory cancer patients clinicaltrials.gov/show/NCT00876915"
+    }, {
+      "issue" : "10",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0021|cit21",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "2130",
+      "DOI" : "10.1200/JCO.2005.03.134",
+      "article-title" : "The effect of low molecular weight heparin on survival in patients with advanced malignancy",
+      "volume" : "23",
+      "author" : "Klerk",
+      "year" : "2005",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0022|cit22",
+      "first-page" : "S30",
+      "article-title" : "A phase III study of enoxaparin vs aspirin as thromboprophylaxis for patients with newly diagnosed of multiple myeloma treated with lenalidomide-based regimens",
+      "volume" : "96",
+      "author" : "Cavallo",
+      "year" : "2011",
+      "journal-title" : "Haematologica"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0023|cit23",
+      "unstructured" : "Cavallo F Di Raimondo F Harda I Lupo B Romano A Catalano L A phase III study of enoxaparin vs aspirin as thromboprophylaxis for newly diagnosed myeloma patients treated with lenalidomide-based regimen Blood 2010 Abstract 1092"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0024|cit24",
+      "first-page" : "S40",
+      "article-title" : "Thromboprophylaxis for newly diagnosed myeloma patients treated with lenalidomide-based regimens: an interim analysis of a prospective, randomized study of enoxaparin vs aspirin",
+      "volume" : "95",
+      "author" : "Larocca",
+      "year" : "2013",
+      "journal-title" : "Haematologica"
+    }, {
+      "issue" : "4",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0025|cit25",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "933",
+      "DOI" : "10.1182/blood-2011-03-344333",
+      "article-title" : "Aspirin or enoxaparin thromboprophylaxis for patients with newly diagnosed multiple myeloma treated with lenalidomide",
+      "volume" : "119",
+      "author" : "Larocca",
+      "year" : "2012",
+      "journal-title" : "Blood"
+    }, {
+      "issue" : "1",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0026|cit26",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "38",
+      "DOI" : "10.1002/1097-0142(19940701)74:1<38::AID-CNCR2820740108>3.0.CO;2-E",
+      "article-title" : "Subcutaneous heparin treatment increases survival in small cell lung cancer. \"Petites Cellules\" Group",
+      "volume" : "74",
+      "author" : "Lebeau",
+      "year" : "1994",
+      "journal-title" : "Cancer"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0027|cit27",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "666",
+      "DOI" : "10.1016/j.thromres.2013.09.026",
+      "article-title" : "Adjuvant therapy with bemiparin in patients with limited-stage small cell lung cancer: Results from the ABEL study",
+      "volume" : "132",
+      "author" : "Lecumberri",
+      "year" : "2013",
+      "journal-title" : "Thrombosis Research"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0028|cit28",
+      "unstructured" : "NCT00324558 Multicenter, randomized, open and sequential study to evaluate the efficacy and safety of bemiparin administration on the response to treatment in patients diagnosed with limited small cell lung cancer clinicaltrials.gov/show/NCT00324558"
+    }, {
+      "issue" : "5",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0029|cit29",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "462",
+      "DOI" : "10.1016/0197-2456(93)90214-X",
+      "article-title" : "Efficacy of double-blinding in a randomized controlled trial (RCT) of low dose warfarin to prevent thromboembolic disease in patients with metastatic breast cancer",
+      "volume" : "14",
+      "author" : "Dickson",
+      "year" : "1993",
+      "journal-title" : "Controlled Clinical Trials"
+    }, {
+      "issue" : "8902",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0030|cit30",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "886",
+      "DOI" : "10.1016/S0140-6736(94)90008-6",
+      "article-title" : "Double-blind randomised trial of very-low-dose warfarin for prevention of thromboembolism in stage IV breast cancer",
+      "volume" : "343",
+      "author" : "Levine",
+      "year" : "1994",
+      "journal-title" : "Lancet"
+    }, {
+      "issue" : "5",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0031|cit31",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "807",
+      "DOI" : "10.1111/j.1538-7836.2012.04693.x",
+      "article-title" : "A randomized phase II trial of Apixaban for the prevention of thromboembolism in patients with metastatic cancer",
+      "volume" : "10",
+      "author" : "Levine",
+      "year" : "2012",
+      "journal-title" : "Journal of Thrombosis and Haemostasis"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0032|cit32",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "S161",
+      "DOI" : "10.1016/S0049-3848(10)70038-4",
+      "article-title" : "Randomized phase II trial of an oral factor Xa inhibitor in patients with metastatic cancer on chemotherapy",
+      "volume" : "125 (Suppl 2)",
+      "author" : "Levine",
+      "year" : "2010",
+      "journal-title" : "Thrombosis Research"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0033|cit33",
+      "first-page" : "Abstract PP-WE-",
+      "article-title" : "Apixaban in patients with metastatic cancer: a randomized phase II feasibility study",
+      "volume" : "7 Suppl 2",
+      "author" : "Liebman",
+      "year" : "2009",
+      "journal-title" : "Journal of Thrombosis and Haemostasis"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0034|cit34",
+      "unstructured" : "NCT00320255 A randomized, double-blind, placebo-controlled study of apixaban for the prevention of thromboembolic events in patients undergoing treatment for advanced cancer: a phase 2 pilot study clinicaltrials.gov/show/NCT00320255"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0035|cit35",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "355",
+      "DOI" : "10.1186/1471-2407-9-355",
+      "article-title" : "FRAGMATIC: a randomised phase III clinical trial investigating the effect of fragmin added to standard therapy in patients with lung cancer",
+      "volume" : "9",
+      "author" : "Griffiths",
+      "year" : "2009",
+      "journal-title" : "BMC Cancer"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0036|cit36",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "488",
+      "DOI" : "10.1200/JCO.2015.64.0268",
+      "article-title" : "Randomized phase III trial of standard therapy plus low molecular weight heparin in patients with lung cancer: FRAGMATIC trial",
+      "volume" : "34",
+      "author" : "Macbeth",
+      "year" : "2016",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "issue" : "Suppl 2",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0037|cit37",
+      "first-page" : "O27.02",
+      "article-title" : "Preliminary results from the fragmatic trial: A randomised phase iii clinical trial investigating the effect of fragmin added to standard therapy in patients with lung cancer",
+      "volume" : "8",
+      "author" : "Macbeth",
+      "year" : "2013",
+      "journal-title" : "Journal of Thoracic Oncology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0038|cit38",
+      "first-page" : "S1011",
+      "article-title" : "Applying the results of the Fragmatic trial to real life: longitudinal qualitative study exploring the experiences of patients partcipating in a randomised phase III clinical trial investigating the effect of Fragmin added to standard therapy in lung cancer",
+      "volume" : "8 (Suppl 2)",
+      "author" : "Noble",
+      "year" : "2013",
+      "journal-title" : "Journal of Thoracic Oncology"
+    }, {
+      "issue" : "5",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0039|cit39",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "452",
+      "DOI" : "10.1097/MBC.0b013e328338dc49",
+      "article-title" : "Weight-adjusted dalteparin for prevention of vascular thromboembolism in advanced pancreatic cancer patients decreases serum tissue factor and serum-mediated induction of cancer cell invasion",
+      "volume" : "21",
+      "author" : "Maraveyas",
+      "year" : "2010",
+      "journal-title" : "Blood Coagulation and Fibrinolysis"
+    }, {
+      "issue" : "9",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0040|cit40",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "1283",
+      "DOI" : "10.1016/j.ejca.2011.10.017",
+      "article-title" : "Gemcitabine versus gemcitabine plus dalteparin thromboprophylaxis in pancreatic cancer",
+      "volume" : "48",
+      "author" : "Maraveyas",
+      "year" : "2012",
+      "journal-title" : "European Journal of Cancer"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0041|cit41",
+      "unstructured" : "NCT00462852 A phase II randomised study of chemo-anticoagulation (gemcitabine-dalteparin) vs chemotherapy alone (Gemcitabine) for locally advanced and metastatic pancreatic adenocarcinoma clinicaltrials.gov/show/NCT00462852"
+    }, {
+      "issue" : "11",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0042|cit42",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "3378",
+      "DOI" : "10.1200/JCO.1997.15.11.3378",
+      "article-title" : "Randomized trial of chemotherapy and radiation therapy with or without warfarin for limited-stage small-cell lung cancer: a Cancer and Leukemia Group B study",
+      "volume" : "15",
+      "author" : "Maurer",
+      "year" : "1997",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "issue" : "2",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0043|cit43",
+      "first-page" : "235",
+      "article-title" : "Trend to efficacy and safety using antithrombin concentrate in prevention of thrombosis in children receiving l-asparaginase for acute lymphoblastic leukemia. Results of the PAARKA study",
+      "volume" : "90",
+      "author" : "Mitchell",
+      "year" : "2003",
+      "journal-title" : "Thrombosis and Haemostasis"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0044|cit44",
+      "first-page" : "391, Abstract 0",
+      "article-title" : "Phase III study of enoxaparin versus aspirin versus low dose warfarin as thromboprophylaxis for patients with newly diagnosed multiple myeloma treated up front with thalidomide-containing regimens",
+      "volume" : "95 Suppl 2",
+      "author" : "Cavo",
+      "year" : "2010",
+      "journal-title" : "Haematologica"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0045|cit45",
+      "unstructured" : "Palumbo A Cavo M Bringhen S Patriarca F Rossi D Petrucci MT A phase III study of enoxaparin versus aspirin versus low-dose warfarin as thromboprophylaxis for patients with newly diagnosed multiple myeloma treated up-front with thalidomide based-regimens Haematologica 2009 213"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0046|cit46",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "986",
+      "DOI" : "10.1200/JCO.2010.31.6844",
+      "article-title" : "Aspirin, warfarin, or enoxaparin thromboprophylaxis in patients with multiple myeloma treated with thalidomide: a phase III, open-label, randomized trial",
+      "volume" : "29",
+      "author" : "Palumbo",
+      "year" : "2011",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0047|cit47",
+      "unstructured" : "Palumbo A Rus C Cavallo F Bertola A Petrucci MT Liberati AM Enoxaparin or aspirin for the prevention of recurrent thromboembolism in newly diagnosed myeloma patients treated with melphalan and prednisone plus thalidomide or lenalidomide Haematologica 2006",
+      "DOI" : "10.1111/j.1538-7836.2006.02059.x",
+      "doi-asserted-by" : "crossref"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0048|cit48",
+      "unstructured" : "Pelzer U Deutschinoff G Opitz B Stauch M Reitzig P Hahnfeld S A prospective, randomized trial of simultaneous pancreatic cancer treatment with enoxaparin and chemotherapy. First results of the CONKO-004 trial Onkologie-DGHO meeting; 2009 Oct 2-6; Mannheim 2009 Abstract 580"
+    }, {
+      "issue" : "6",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0049|cit49",
+      "first-page" : "200",
+      "article-title" : "The impact of low molecular weight heparin in first-line pancreatic cancer treatment - final results of the CONKO-004 trial",
+      "volume" : "33",
+      "author" : "Pelzer",
+      "year" : "2010",
+      "journal-title" : "Onkologie"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0050|cit50",
+      "unstructured" : "Pelzer U Hilbig A Stieler J Roll L Riess H Dörken B A prospective, randomized trial of simultaneous pancreatic cancer treatment with enoxaparin and chemotherapy (PROSPECT - CONKO 004) Onkologie 2005 Abstract 151"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0051|cit51",
+      "unstructured" : "Pelzer U Oettle H Stauch M Opitz B Stieler J Scholten T Prospective, randomized open trial of enoxaparin in patients with advanced pancreatic cancer undergoing first-line chemotherapy XXIst Congress of the International Society on Thrombosis and Haemostasis; 2007 Jul 6-12; Geneva 2007 Abstract P-T-488"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0052|cit52",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "2028",
+      "DOI" : "10.1200/JCO.2014.55.1481",
+      "article-title" : "Efficacy of prophylactic low-molecular weight heparin for ambulatory patients with advanced pancreatic cancer: outcomes from the CONKO-004 Trial",
+      "volume" : "33",
+      "author" : "Pelzer",
+      "year" : "2015",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0053|cit53",
+      "first-page" : "2084",
+      "article-title" : "Primary pharmacological prevention of thromboembolic events in ambulatory patients with advanced pancreatic cancer treated with chemotherapy?",
+      "volume" : "138",
+      "author" : "Pelzer",
+      "year" : "2013",
+      "journal-title" : "Deutsche Medizinische Wochenschrift"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0054|cit54",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "361",
+      "DOI" : "10.1186/1471-2407-8-361",
+      "article-title" : "Rationale and design of PROSPECT-CONKO 004: a prospective, randomized trial of simultaneous pancreatic cancer treatment with enoxaparin and chemotherapy",
+      "volume" : "8",
+      "author" : "Riess",
+      "year" : "2008",
+      "journal-title" : "BMC Cancer"
+    }, {
+      "issue" : "9",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0055|cit55",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "1959",
+      "DOI" : "10.1111/j.1538-7836.2010.03973.x",
+      "article-title" : "PRODIGE: a randomized placebo-controlled trial of dalteparin low-molecular-weight heparin thromboprophylaxis in patients with newly diagnosed malignant glioma",
+      "volume" : "8",
+      "author" : "Perry",
+      "year" : "2010",
+      "journal-title" : "Journal of Thrombosis and Haemostasis"
+    }, {
+      "issue" : "18 Suppl",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0056|cit56",
+      "first-page" : "2011",
+      "article-title" : "PRODIGE: A phase III randomized placebo-controlled trial of thromboprophylaxis using dalteparin low molecular weight heparin (LMWH) in patients with newly diagnosed malignant glioma",
+      "volume" : "25",
+      "author" : "Perry",
+      "year" : "2007",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "issue" : "6",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0057|cit57",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "758",
+      "DOI" : "10.4065/81.6.758",
+      "article-title" : "Low-molecular-weight heparin in patients with advanced cancer: a phase 3 clinical trial",
+      "volume" : "81",
+      "author" : "Sideras",
+      "year" : "2006",
+      "journal-title" : "Mayo Clinic Proceedings"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0058|cit58",
+      "unstructured" : "NCT00966277 Randomized clinical trial of dalteparin for primary venous thromboembolism (VTE) prophylaxis in pancreatic cancer patients undergoing chemotherapy treatment clinicaltrials.gov/show/NCT00966277"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0059|cit59",
+      "unstructured" : "Vadhan-Raj S Zhou X Varadhachary GR Milind J Fogelman D Shroff R Randomized controlled trial of dalteparin for primary thromboprophylaxis for venous thromboembolism (VTE) in patients with advanced pancreatic cancer (APC): risk factors predictive of VTE 55th Annual Meeting of the American Society of Hematology 2013"
+    }, {
+      "issue" : "21",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0060|cit60",
+      "first-page" : "580",
+      "article-title" : "Randomized controlled trial of dalteparin for primary thromboprophylaxis for venous thromboembolism (VTE) in patients with advanced pancreatic cancer (APC): risk factors predictive of VTE",
+      "volume" : "122",
+      "author" : "Zhou",
+      "year" : "2013",
+      "journal-title" : "Blood"
+    }, {
+      "issue" : "15",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0061|cit61",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "2071",
+      "DOI" : "10.1200/JCO.2010.31.9293",
+      "article-title" : "Randomized trial of the effect of the low molecular weight heparin nadroparin on survival in patients with cancer",
+      "volume" : "29",
+      "author" : "Doormaal",
+      "year" : "2011",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "issue" : "10",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0062|cit62",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "2046",
+      "DOI" : "10.1002/1097-0142(19840515)53:10<2046::AID-CNCR2820531007>3.0.CO;2-F",
+      "article-title" : "Effect of warfarin anticoagulation on survival in carcinoma of the lung, colon, head and neck, and prostate. Final report of VA Cooperative Study #75",
+      "volume" : "53",
+      "author" : "Zacharski",
+      "year" : "1984",
+      "journal-title" : "Cancer"
+    }, {
+      "issue" : "8",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0063|cit63",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "831",
+      "DOI" : "10.1001/jama.1981.03310330021017",
+      "article-title" : "Effect of warfarin on survival in small cell carcinoma of the lung. Veterans Administration Study No. 75",
+      "volume" : "245",
+      "author" : "Zacharski",
+      "year" : "1981",
+      "journal-title" : "JAMA"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0064|cit64",
+      "first-page" : "6",
+      "article-title" : "A randomized-controlled phase II trial of primary thromboprophylaxis with enoxaparin in cancer patients with elevated tissue factor bearing microparticles (The Microtec Study)",
+      "volume" : "11 (Suppl s3)",
+      "author" : "Zwicker",
+      "year" : "2013",
+      "journal-title" : "Journal of Thrombosis and Haemostasis"
+    }, {
+      "issue" : "4",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0065|cit65",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "530-7",
+      "DOI" : "10.1111/bjh.12163",
+      "article-title" : "Prediction and prevention of thromboembolic events with enoxaparin in cancer patients with elevated tissue factor-bearing microparticles: a randomized-controlled phase II trial (the Microtec study)",
+      "volume" : "160",
+      "author" : "Zwicker",
+      "year" : "2013",
+      "journal-title" : "British Journal of Haematology"
+    }, {
+      "issue" : "12",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0066|cit66",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "1568",
+      "DOI" : "10.4065/80.12.1568",
+      "article-title" : "The role of aspirin in the prevention of thrombotic complications of thalidomide and anthracycline-based chemotherapy for multiple myeloma",
+      "volume" : "80",
+      "author" : "Baz",
+      "year" : "2005",
+      "journal-title" : "Mayo Clinic Proceedings"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0067|cit67",
+      "unstructured" : "Bergqvist D Lindblad B Is it possible to potentiate the thromboprophylactic effect of dextran with elastic compression stockings? Thrombosis and Haemostasis 1983 247 Abstract 0777"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0068|cit68",
+      "first-page" : "513",
+      "article-title" : "Potential endovascular prophylaxis for pulmonary thromboembolism in the combined treatment of cancer patients",
+      "volume" : "57",
+      "author" : "Bocharov",
+      "year" : "2011",
+      "journal-title" : "Voprosy Onkologii"
+    }, {
+      "issue" : "11",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0069|cit69",
+      "first-page" : "690 Abstract 19",
+      "article-title" : "Prevention of venous thrombosis in cancer patients: a randomized, double-blind study comparing two different dosages of low-molecular weight heparin",
+      "volume" : "112",
+      "author" : "Eichinger",
+      "year" : "2008",
+      "journal-title" : "Blood"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0070|cit70",
+      "unstructured" : "Groupe Cooperateur Multidisciplinaire en Oncologie Chemotherapy with or without dalteparin in treating patients with metastatic pancreatic cancer (PAM07) clinicaltrials.gov/show/NCT00662688"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0071|cit71",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "316",
+      "DOI" : "10.1186/1471-2407-11-316",
+      "article-title" : "Heparin based prophylaxis to prevent venous thromboembolic events and death in patients with cancer - a subgroup analysis of CERTIFY",
+      "volume" : "11",
+      "author" : "Haas",
+      "year" : "2011",
+      "journal-title" : "BMC Cancer"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0072|cit72",
+      "unstructured" : "Heilmann L Schneider D Herrle B von Tempelhoff G-F Manstein J Wolf H A prospective randomized trial of low molecular weight heparin (LMWH) versus unfractionated heparin (UFH) in patients with gynecologic cancer Thrombosis and Haemostasis 1995 974 Abstract No 286"
+    }, {
+      "issue" : "5793",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0073|cit73",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "131",
+      "DOI" : "10.1136/bmj.1.5793.131",
+      "article-title" : "Prevention of deep vein thrombosis by intermittent pneumatic compression of calf",
+      "volume" : "1",
+      "author" : "Hills",
+      "year" : "1972",
+      "journal-title" : "British Medical Journal"
+    }, {
+      "issue" : "3",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0075|cit74",
+      "first-page" : "160",
+      "article-title" : "Prophylaxis and treatment of venous thromboembolism in patients with multiple myeloma",
+      "volume" : "5",
+      "author" : "Kessler",
+      "year" : "2011",
+      "journal-title" : "Onkologie"
+    }, {
+      "issue" : "4",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0074|cit75",
+      "first-page" : "281",
+      "article-title" : "Low molecular weight heparins for thromboprophylaxis during induction chemotherapy in patients with multiple myeloma",
+      "volume" : "24",
+      "author" : "Kessler",
+      "year" : "2011",
+      "journal-title" : "Klinicka Onkologie"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0076|cit76",
+      "unstructured" : "NCT00004875 Heparin or enoxaparin in patients with cancer clinicaltrials.gov/show/NCT00004875"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0077|cit77",
+      "unstructured" : "NCT00790452 A randomized phase II trial of aspirin for primary prophylaxis of venous thromboembolism in glioblastoma clinicaltrials.gov/show/NCT00790452"
+    }, {
+      "issue" : "7873",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0078|cit78",
+      "first-page" : "118",
+      "article-title" : "Heparin versus dextran in the prevention of deep-vein thrombosis. A multi-unit controlled trial",
+      "volume" : "2",
+      "author" : "Macintyre",
+      "year" : "1974",
+      "journal-title" : "Lancet"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0079|cit79",
+      "unstructured" : "Maxwell GL A prospective randomized trial comparing external pneumatic compression stockings (EPC) to the low molecular weight heparin (LMWH) dalteparin in the prevention of thromboembolic events (TE) among gynecologic oncology patients Proceedings of the American Society of Clinical Oncology 2000 388a, Abstract 1535"
+    }, {
+      "issue" : "2",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0080|cit80",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "298",
+      "DOI" : "10.1002/pbc.21222",
+      "article-title" : "Comparison of low-molecular-weight heparin and antithrombin versus antithrombin alone for the prevention of symptomatic venous thromboembolism in children with acute lymphoblastic leukemia",
+      "volume" : "50",
+      "author" : "Meister",
+      "year" : "2008",
+      "journal-title" : "Pediatric Blood and Cancer"
+    }, {
+      "issue" : "12",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0081|cit81",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "2044",
+      "DOI" : "10.1038/sj.leu.2403533",
+      "article-title" : "Prevention of venous thromboembolism with low molecular-weight heparin in patients with multiple myeloma treated with thalidomide and chemotherapy",
+      "volume" : "18",
+      "author" : "Minnema",
+      "year" : "2004",
+      "journal-title" : "Leukemia"
+    }, {
+      "issue" : "12",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0082|cit82",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "2330-7",
+      "DOI" : "10.1080/10428190701647887",
+      "article-title" : "Prophylactic low-dose aspirin is effective antithrombotic therapy for combination treatments of thalidomide or lenalidomide in myeloma",
+      "volume" : "48",
+      "author" : "Niesvizky",
+      "year" : "2007",
+      "journal-title" : "Leukemia and Lymphoma"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0083|cit83",
+      "unstructured" : "NCT00031837 A prospective randomized controlled multicenter study of the effect of dalteparin on quality of life in unresectable pancreatic cancer clinicaltrials.gov/show/NCT00031837"
+    }, {
+      "issue" : "8",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0084|cit84",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "1644",
+      "DOI" : "10.1080/10428190802187155",
+      "article-title" : "Tailored thromboprophylaxis for patients with multiple myeloma treated by IMIDs",
+      "volume" : "49",
+      "author" : "Paydas",
+      "year" : "2008",
+      "journal-title" : "Leukemia and Lymphoma"
+    }, {
+      "issue" : "7",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0085|cit85",
+      "first-page" : "241",
+      "article-title" : "Efficacy of low molecular weight heparin (Fragmin) for thromboprophylaxis in medical patients: a randomized double blind trial",
+      "volume" : "83",
+      "author" : "Poniewierski",
+      "year" : "1988",
+      "journal-title" : "Medizinische Klinik"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0086|cit86",
+      "unstructured" : "Poniewierski M Barthels M Poliwoda H The safety and efficacy of a low molecular weight heparin (fragmin) in the prevention of deep vein thrombosis in medical patients: a randomized double-blind trial Thrombosis and Haemostasis 1987 119 Abstract 425"
+    }, {
+      "issue" : "1",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0087|cit87",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "42",
+      "DOI" : "10.1200/JCO.1995.13.1.42",
+      "article-title" : "Very low-dose warfarin prophylaxis to prevent thromboembolism in women with metastatic breast cancer receiving chemotherapy: an economic evaluation",
+      "volume" : "13",
+      "author" : "Rajan",
+      "year" : "1995",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0088|cit88",
+      "unstructured" : "Sideras K Schaefer PL Okuno SH Low-molecular-weight heparin in patients with advanced cancer: a phase 3 clinical trial Journal of Vascular Surgery 2007 861",
+      "DOI" : "10.1016/j.jvs.2007.02.017",
+      "doi-asserted-by" : "crossref"
+    }, {
+      "issue" : "7",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0089|cit89",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "847",
+      "DOI" : "10.1007/s00520-007-0339-3",
+      "article-title" : "Prophylactic anti-coagulation in cancer palliative care: a prospective randomised study",
+      "volume" : "16",
+      "author" : "Weber",
+      "year" : "2008",
+      "journal-title" : "Support Care in Cancer"
+    }, {
+      "issue" : "11",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0090|cit90",
+      "first-page" : "925",
+      "article-title" : "Thrombo-embolytic prophylaxis using physiotherapy with and without low doses of heparin in gynecology and obstetrics. Results of a controlled and randomized multi-cancer study",
+      "volume" : "101",
+      "author" : "Welti",
+      "year" : "1981",
+      "journal-title" : "Revue Medicale de la Suisse Romande"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0091|cit91",
+      "first-page" : "S248",
+      "article-title" : "Effect of anticoagulation on development and recurrence of deep vein thrombosis (DVT) in multiple myeloma patients treated with chemotherapy and thalidomide (total therapy II)",
+      "volume" : "4 Suppl 1",
+      "author" : "Zangari",
+      "year" : "2003",
+      "journal-title" : "Hematology Journal"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0092|cit92",
+      "first-page" : "S122",
+      "article-title" : "The effect of warfarin on survival in patients with lung cancer",
+      "volume" : "7",
+      "author" : "Ciftci",
+      "year" : "2012",
+      "journal-title" : "Journal of Thoracic Oncology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0093|cit93",
+      "unstructured" : "Enoxaparin low molecular weight heparin (LMWH) in advanced non small cell lung cancer: effect on survival and symptom control in patients undergoing first line chemotherapy (SYRINGES) clinicaltrials.gov/ct2/show/NCT00771563"
+    }, {
+      "issue" : "2-3",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0094|cit94",
+      "first-page" : "142",
+      "article-title" : "Thromboprophylaxis with low molecular weight heparin (LMWH) and conventional low dose heparin in patients with malignant diseases",
+      "volume" : "61",
+      "author" : "Salat",
+      "year" : "1990",
+      "journal-title" : "Blut"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0095|cit95",
+      "unstructured" : "NCT00662688 Chemotherapy with or without preventive anticoagulation for metastatic cancer of the pancreas clinicaltrials.gov/ct2/show/NCT00662688?term=NCT00662688&rank=1"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0096|cit96",
+      "unstructured" : "NCT00717938 A study of standard treatment +/- enoxaparin in small cell lung cancer (RASTEN) clinicaltrials.gov/ct2/show/NCT00717938"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0097|cit97",
+      "unstructured" : "NCT00718354 Randomized, phase III-b, multi-centre, open-label, parallel study of Enoxaparin (low molecular weight heparin) given concomitantly with chemotherapy vs chemotherapy alone in patients with inoperable gastric and gastro-oesophageal cancer clinicaltrials.gov/ct2/show/NCT00718354?term=NCT00718354&rank=1"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0098|cit98",
+      "unstructured" : "NCT02048865 Apixaban for the prevention of venous thromboembolism in cancer patients (AVERT) clinicaltrials.gov/ct2/show/NCT02048865"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0099|cit99",
+      "unstructured" : "NCT02285738 Anti-platelet and statin therapy to prevent cancer-associated thrombosis clinicaltrials.gov/ct2/show/NCT02285738"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0100|cit100",
+      "unstructured" : "NCT02555878 Efficacy and safety of rivaroxaban prophylaxis compared with placebo in ambulatory cancer patients initiating systemic cancer therapy and at high risk for venous thromboembolism clinicaltrials.gov/ct2/show/NCT02555878"
+    }, {
+      "issue" : "2",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0101|cit101",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "198",
+      "DOI" : "10.1345/aph.1R335",
+      "article-title" : "Primary venous thromboembolism prophylaxis in ambulatory cancer patients",
+      "volume" : "47",
+      "author" : "Aikens",
+      "year" : "2013",
+      "journal-title" : "The Annals of Pharmacotherapy"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0102|cit102",
+      "author" : "Akl",
+      "issue" : "4",
+      "year" : "2011",
+      "article-title" : "Anticoagulation for patients with cancer and central venous catheters",
+      "journal-title" : "Cochrane Database of Systematic Reviews",
+      "DOI" : "10.1002/14651858.CD006468.pub4",
+      "doi-asserted-by" : "publisher"
+    }, {
+      "issue" : "24",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0103|cit103",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "5377",
+      "DOI" : "10.1182/blood-2010-02-270116",
+      "article-title" : "Prediction of venous thromboembolism in cancer patients",
+      "volume" : "116",
+      "author" : "Ay",
+      "year" : "2010",
+      "journal-title" : "Blood"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0104|cit104",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "177",
+      "DOI" : "10.1016/0197-2456(86)90046-2",
+      "article-title" : "Meta-analysis in clinical trials",
+      "volume" : "7",
+      "author" : "DerSimonian",
+      "year" : "1986",
+      "journal-title" : "Controlled Clinical Trials"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0105|cit105",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "494",
+      "DOI" : "10.1182/blood-2015-02-626788",
+      "article-title" : "Intracranial hemorrhage in patients with brain metastases treated with therapeutic enoxaparin: a matched cohort study",
+      "volume" : "126",
+      "author" : "Donato",
+      "year" : "2015",
+      "journal-title" : "Blood"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0106|cit106",
+      "unstructured" : "European Medicines Agency (EMEA) Withdrawal of the marketing authorisation application for Mulsevo (semuloparin sodium) www.emea.europa.eu/docs/en_GB/document_library/Medicine_QA/2012/07/WC500130168.pdf"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0107|cit107",
+      "first-page" : "Abstract 206",
+      "article-title" : "Venous thromboembolism (VTE) prevention with semuloparin in cancer patients initiating chemotherapy: benefit-risk assessment by VTE risk in SAVE-ONCO",
+      "volume" : "118",
+      "author" : "George",
+      "year" : "2011",
+      "journal-title" : "Blood"
+    }, {
+      "issue" : "7656",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0108|cit108",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "924",
+      "DOI" : "10.1136/bmj.39489.470347.AD",
+      "article-title" : "GRADE: an emerging consensus on rating quality of evidence and strength of recommendations",
+      "volume" : "336",
+      "author" : "Guyatt",
+      "year" : "2008",
+      "journal-title" : "BMJ"
+    }, {
+      "issue" : "20",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0109|cit109",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "3443",
+      "DOI" : "10.1002/sim.2380",
+      "article-title" : "A modified test for small-study effects in meta-analyses of controlled trials with binary endpoints",
+      "volume" : "25",
+      "author" : "Harbord",
+      "year" : "2006",
+      "journal-title" : "Statistics in Medicine"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0110|cit110",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "464",
+      "DOI" : "10.1038/nrcardio.2015.83",
+      "article-title" : "Epidemiology of venous thromboembolism",
+      "volume" : "12",
+      "author" : "Heit",
+      "year" : "2015",
+      "journal-title" : "Nature Reviews. Cardiology"
+    }, {
+      "issue" : "7414",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0111|cit111",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "557",
+      "DOI" : "10.1136/bmj.327.7414.557",
+      "article-title" : "Measuring inconsistency in meta-analyses",
+      "volume" : "327",
+      "author" : "Higgins",
+      "year" : "2003",
+      "journal-title" : "BMJ"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0112|cit112",
+      "unstructured" : "Higgins JPT Green S (editors) Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+    }, {
+      "issue" : "17",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0113|cit113",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "3078",
+      "DOI" : "10.1200/JCO.2000.18.17.3078",
+      "article-title" : "Incidence of recurrent thromboembolic and bleeding complications among patients with venous thromboembolism in relation to both malignancy and achieved international normalized ratio: a retrospective analysis",
+      "volume" : "18",
+      "author" : "Hutten",
+      "year" : "2000",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "issue" : "7303",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0114|cit114",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "42",
+      "DOI" : "10.1136/bmj.323.7303.42",
+      "article-title" : "Systematic reviews in health care: Assessing the quality of controlled clinical trials",
+      "volume" : "323",
+      "author" : "Juni",
+      "year" : "2001",
+      "journal-title" : "BMJ"
+    }, {
+      "issue" : "2 Suppl",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0115|cit115",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "e195S",
+      "DOI" : "10.1378/chest.11-2296",
+      "article-title" : "Prevention of VTE in nonsurgical patients: antithrombotic therapy and prevention of thrombosis, 9th edition: American College of Chest Physicians evidence-based clinical practice guidelines",
+      "volume" : "141",
+      "author" : "Kahn",
+      "year" : "2012",
+      "journal-title" : "Chest"
+    }, {
+      "issue" : "S2",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0116|cit116",
+      "first-page" : "S49-55",
+      "article-title" : "Bleeding complications during anticoagulant treatment in patients with cancer",
+      "volume" : "133",
+      "author" : "Kamphuisen",
+      "year" : "2014",
+      "journal-title" : "Thrombosis Research"
+    }, {
+      "issue" : "10",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0117|cit117",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "4902",
+      "DOI" : "10.1182/blood-2007-10-116327",
+      "article-title" : "Development and validation of a predictive model for chemotherapy-associated thrombosis",
+      "volume" : "111",
+      "author" : "Khorana",
+      "year" : "2008",
+      "journal-title" : "Blood"
+    }, {
+      "issue" : "29",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0118|cit118",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "4839",
+      "DOI" : "10.1200/JCO.2009.22.3271",
+      "article-title" : "Assessing risk of venous thromboembolism in the patient with cancer",
+      "volume" : "27",
+      "author" : "Khorana",
+      "year" : "2009",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "issue" : "29",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0119|cit119",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "4919",
+      "DOI" : "10.1200/JCO.2009.22.3214",
+      "article-title" : "Venous thromboembolism prophylaxis and treatment in cancer: a consensus statement of major guidelines panels and call to action",
+      "volume" : "27",
+      "author" : "Khorana",
+      "year" : "2009",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "issue" : "15S",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0120|cit120",
+      "first-page" : "9537",
+      "article-title" : "Low-molecular-weight heparin for venous thromboprophylaxis in ambulatory cancer patients: a meta-analysis",
+      "volume" : "27",
+      "author" : "Kuderer",
+      "year" : "2009",
+      "journal-title" : "Journal of Clinical Oncology. ASCO Annual Meeting Proceedings (Post-Meeting Edition)"
+    }, {
+      "issue" : "24",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0121|cit121",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "2189",
+      "DOI" : "10.1200/JCO.2013.49.1118",
+      "article-title" : "Venous thromboembolism prophylaxis and treatment in patients with cancer: American Society of Clinical Oncology clinical practice guideline update",
+      "volume" : "31",
+      "author" : "Lyman",
+      "year" : "2013",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0122|cit122",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "654",
+      "DOI" : "10.1200/JCO.2014.59.7351",
+      "article-title" : "Venous thromboembolism prophylaxis and treatment in patients with cancer: American Society of Clinical Oncology clinical practice guideline update 2014",
+      "volume" : "33",
+      "author" : "Lyman",
+      "year" : "2015",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "issue" : "8",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0123|cit123",
+      "first-page" : "759-67",
+      "article-title" : "Thromboprophylaxis guidelines in cancer with a primary focus on ambulatory patients receiving chemotherapy: a review from the southern network on adverse reactions (SONAR)",
+      "volume" : "38",
+      "author" : "Maxwell",
+      "year" : "2012",
+      "journal-title" : "Seminars in Thrombosis and Hemostasis"
+    }, {
+      "issue" : "2",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0124|cit124",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "190",
+      "DOI" : "10.1001/archinte.164.2.190",
+      "article-title" : "Symptomatic venous thromboembolism in cancer patients treated with chemotherapy. An underestimated phenomenon",
+      "volume" : "164",
+      "author" : "Otten",
+      "year" : "2004",
+      "journal-title" : "Archives of Internal Medicine"
+    }, {
+      "issue" : "10",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0125|cit125",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "3484",
+      "DOI" : "10.1182/blood-2002-01-0108",
+      "article-title" : "Recurrent venous thromboembolism and bleeding complications during anticoagulant treatment in patients with cancer and venous thrombosis",
+      "volume" : "100",
+      "author" : "Prandoni",
+      "year" : "2002",
+      "journal-title" : "Blood"
+    }, {
+      "issue" : "29",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0126|cit126",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "4885",
+      "DOI" : "10.1200/JCO.2009.23.5481",
+      "article-title" : "Prevention of thrombosis in ambulatory patients with cancer",
+      "volume" : "27",
+      "author" : "Rana",
+      "year" : "2009",
+      "journal-title" : "Journal of Clinical Oncology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0127|cit127",
+      "unstructured" : "The Nordic Cochrane Centre, The Cochrane Collaboration Review Manager (RevMan) 2014"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0128|cit128",
+      "author" : "Rutjes",
+      "issue" : "4",
+      "year" : "2009",
+      "article-title" : "Transcutaneous electrostimulation for osteoarthritis of the knee",
+      "journal-title" : "Cochrane Database of Systematic Reviews",
+      "DOI" : "10.1002/14651858.CD002823.pub2",
+      "doi-asserted-by" : "publisher"
+    }, {
+      "issue" : "3",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0129|cit129",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "180",
+      "DOI" : "10.7326/0003-4819-157-3-201208070-00473",
+      "article-title" : "Viscosupplementation for osteoarthritis of the knee: a systematic review and meta-analysis",
+      "volume" : "157",
+      "author" : "Rutjes",
+      "year" : "2012",
+      "journal-title" : "Annals of Internal Medicine"
+    }, {
+      "issue" : "1",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0130|cit130",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "79",
+      "DOI" : "10.1186/1471-2288-8-79",
+      "article-title" : "Undue reliance on I2 in assessing heterogeneity may mislead",
+      "volume" : "8",
+      "author" : "Rücker",
+      "year" : "2008",
+      "journal-title" : "BMC Medical Research Methodology"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0131|cit131",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "692-4",
+      "DOI" : "10.1111/j.1538-7836.2005.01204.x",
+      "article-title" : "Definition of major bleeding in clinical investigations of antihemostatic medicinal products in non-surgical patients. Scientific and Standardization Committee Communication",
+      "volume" : "3",
+      "author" : "Schulman",
+      "year" : "2005",
+      "journal-title" : "Journal of Thrombosis and Haemostasis"
+    }, {
+      "issue" : "25",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0132|cit132",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "1846",
+      "DOI" : "10.1056/NEJM200012213432504",
+      "article-title" : "Prognosis of cancers associated with venous thromboembolism",
+      "volume" : "343",
+      "author" : "Sorensen",
+      "year" : "2000",
+      "journal-title" : "New England Journal of Medicine"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0133|cit133",
+      "author" : "Spiegelhalter",
+      "year" : "2004",
+      "volume-title" : "Bayesian Approaches to Clinical Trials and Health-Care Evaluation"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0134|cit134",
+      "unstructured" : "StataCorp LP Stata Statistical Software: Release 14 2015"
+    }, {
+      "issue" : "10",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0135|cit135",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "1046",
+      "DOI" : "10.1016/S0895-4356(01)00377-8",
+      "article-title" : "Funnel plots for detecting bias in meta-analysis: guidelines on choice of axis",
+      "volume" : "54",
+      "author" : "Sterne",
+      "year" : "2001",
+      "journal-title" : "Journal of Clinical Epidemiology"
+    }, {
+      "issue" : "20",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0136|cit136",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "2693",
+      "DOI" : "10.1002/(SICI)1097-0258(19991030)18:20<2693::AID-SIM235>3.0.CO;2-V",
+      "article-title" : "Explaining heterogeneity in meta-analysis: a comparison of methods",
+      "volume" : "18",
+      "author" : "Thompson",
+      "year" : "1999",
+      "journal-title" : "Statistics in Medicine"
+    }, {
+      "issue" : "3",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0137|cit137",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "291-2",
+      "DOI" : "10.1007/s11739-012-0784-y",
+      "article-title" : "A modified Khorana risk assessment score for venous thromboembolism in cancer patients receiving chemotherapy: the Protecht score",
+      "volume" : "7",
+      "author" : "Verso",
+      "year" : "2012",
+      "journal-title" : "Internal and Emergency Medicine"
+    }, {
+      "issue" : "2 Suppl",
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0138|cit138",
+      "doi-asserted-by" : "crossref",
+      "first-page" : "e120S",
+      "DOI" : "10.1378/chest.11-2294",
+      "article-title" : "New antithrombotic drugs: antithrombotic therapy and prevention of thrombosis, 9th edition: American College of Chest Physicians evidence-based clinical practice guidelines",
+      "volume" : "141",
+      "author" : "Weitz",
+      "year" : "2012",
+      "journal-title" : "Chest"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0139|cit139",
+      "author" : "Nisio",
+      "issue" : "5",
+      "year" : "2010",
+      "article-title" : "Primary prophylaxis for venous thromboembolism in ambulatory cancer patients receiving chemotherapy",
+      "journal-title" : "Cochrane Database of Systematic Reviews",
+      "DOI" : "10.1002/14651858.CD008500",
+      "doi-asserted-by" : "publisher"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0140|cit140",
+      "author" : "Nisio",
+      "issue" : "2",
+      "year" : "2012",
+      "article-title" : "Primary prophylaxis for venous thromboembolism in ambulatory cancer patients receiving chemotherapy",
+      "journal-title" : "Cochrane Database of Systematic Reviews",
+      "DOI" : "10.1002/14651858.CD008500.pub2",
+      "doi-asserted-by" : "publisher"
+    }, {
+      "key" : "10.1002/14651858.CD008500.pub4-BIB0141|cit141",
+      "author" : "Nisio",
+      "issue" : "8",
+      "year" : "2014",
+      "article-title" : "Primary prophylaxis for venous thromboembolism in ambulatory cancer patients receiving chemotherapy",
+      "journal-title" : "Cochrane Database of Systematic Reviews",
+      "DOI" : "10.1002/14651858.CD008500.pub3",
+      "doi-asserted-by" : "publisher"
+    } ],
+    "container-title" : [ "Cochrane Database of Systematic Reviews" ],
+    "original-title" : [ ],
+    "language" : "en",
+    "link" : [ {
+      "URL" : "https://onlinelibrary.wiley.com/doi/full/10.1002/14651858.CD008500.pub4",
+      "content-type" : "unspecified",
+      "content-version" : "vor",
+      "intended-application" : "similarity-checking"
+    } ],
+    "deposited" : {
+      "date-parts" : [ [ 2018, 8, 6 ] ],
+      "date-time" : "2018-08-06T22:55:08Z",
+      "timestamp" : 1533596108000
+    },
+    "score" : 1.0,
+    "subtitle" : [ ],
+    "editor" : [ {
+      "name" : "Cochrane Vascular Group",
+      "sequence" : "additional",
+      "affiliation" : [ ]
+    } ],
+    "short-title" : [ ],
+    "issued" : {
+      "date-parts" : [ [ 2016, 12, 1 ] ]
+    },
+    "references-count" : 141,
+    "URL" : "http://dx.doi.org/10.1002/14651858.cd008500.pub4",
+    "relation" : {
+      "cites" : [ ]
+    },
+    "ISSN" : [ "1465-1858" ],
+    "issn-type" : [ {
+      "value" : "1465-1858",
+      "type" : "electronic"
+    } ]
+  }
+}
